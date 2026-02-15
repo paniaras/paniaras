@@ -2,16 +2,13 @@
 
 I’m a Principal Designer at Microsoft Digital, where I lead AI‑driven design strategy and help shape the future of agentic experiences, governance, and enterprise UX.
 
-I work across large-scale systems, from Azure DevOps to network and device health platforms, and I explore how AI, decentralization, and emerging technologies reshape design practice.
+I work across large-scale systems, from Digital Assets Governance experiences, Azure DevOps, Network and Device Copilots, and I explore how AI, decentralization, and emerging technologies reshape design practice.
 
 
 ■ LinkedIn: https://www.linkedin.com/in/paniaras  
 ■ Medium: https://paniaras.medium.com  
 ■ Credly: https://www.credly.com/users/yannis-paniaras  
 
-
-<!--
-**paniaras/paniaras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 🇨🇳 I lived and worked in Beijing for 13 years, leading design teams across Microsoft and Nokia.
 🖊️ I helped shape the Microsoft Ink story across Windows, Surface, and Office—bringing together multimodal input like pen, voice, and eye‑tracking.
