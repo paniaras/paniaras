@@ -11,7 +11,6 @@ I work across large-scale systems, from Digital Assets Governance experiences, A
 
 
 ## A few things about me
-- 🇨🇳 I lived and worked in Beijing for 13 years, leading design teams across Microsoft and Nokia.
 - 🤖 At Microsoft Digital, I’m a founding member of the AI Center of Excellence, driving AI-powered transformation across the company.
 - 🛠️ I design experiences for Digital Assets Governance, Network and Device Care Copilots, DevOps Copilot, and reimagining enterprise experiences through AI and agentic workflows.
 - 🖊️ I helped shape the Microsoft Ink story across Windows, Surface, and Office, bringing together multimodal input like pen, voice, and eye-tracking.
